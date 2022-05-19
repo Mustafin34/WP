@@ -1,0 +1,5 @@
+function aler(){
+
+    alert ("Здарова") ;  
+     
+    }
